@@ -1,0 +1,45 @@
+[submodule "agent"]
+	path = agent
+	url = git@github.com:open-falcon/agent.git
+[submodule "graph"]
+	path = graph
+	url = git@github.com:open-falcon/graph.git
+[submodule "dashboard"]
+	path = dashboard
+	url = git@github.com:open-falcon/dashboard.git
+[submodule "links"]
+	path = links
+	url = git@github.com:open-falcon/links.git
+[submodule "alarm"]
+	path = alarm
+	url = git@github.com:open-falcon/alarm.git
+[submodule "sender"]
+	path = sender
+	url = git@github.com:open-falcon/sender.git
+[submodule "judge"]
+	path = judge
+	url = git@github.com:open-falcon/judge.git
+[submodule "hbs"]
+	path = hbs
+	url = git@github.com:open-falcon/hbs.git
+[submodule "portal"]
+	path = portal
+	url = git@github.com:open-falcon/portal.git
+[submodule "query"]
+	path = query
+	url = git@github.com:open-falcon/query.git
+[submodule "transfer"]
+	path = transfer
+	url = git@github.com:open-falcon/transfer.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:open-falcon/scripts.git
+[submodule "doc"]
+	path = doc
+	url = git@github.com:open-falcon/doc.git
+[submodule "common"]
+	path = common
+	url = git@github.com:open-falcon/common.git
+[submodule "open-falcon.github.io"]
+	path = open-falcon.github.io
+	url = git@github.com:open-falcon/open-falcon.github.io.git
