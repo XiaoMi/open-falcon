@@ -43,3 +43,6 @@
 [submodule "open-falcon.github.io"]
 	path = open-falcon.github.io
 	url = https://github.com/open-falcon/open-falcon.github.io.git
+[submodule "task"]
+	path = task
+	url = https://github.com/open-falcon/task.git
