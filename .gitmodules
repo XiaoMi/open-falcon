@@ -46,3 +46,6 @@
 [submodule "task"]
 	path = task
 	url = https://github.com/open-falcon/task.git
+[submodule "fe"]
+	path = fe
+	url = https://github.com/open-falcon/fe.git
