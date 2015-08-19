@@ -34,15 +34,9 @@
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/open-falcon/scripts.git
-[submodule "doc"]
-	path = doc
-	url = https://github.com/open-falcon/doc.git
 [submodule "common"]
 	path = common
 	url = https://github.com/open-falcon/common.git
-[submodule "open-falcon.github.io"]
-	path = open-falcon.github.io
-	url = https://github.com/open-falcon/open-falcon.github.io.git
 [submodule "task"]
 	path = task
 	url = https://github.com/open-falcon/task.git
