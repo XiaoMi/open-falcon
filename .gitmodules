@@ -43,3 +43,6 @@
 [submodule "fe"]
 	path = fe
 	url = https://github.com/open-falcon/fe.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/open-falcon/gateway.git
