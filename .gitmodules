@@ -1,9 +1,6 @@
 [submodule "agent"]
 	path = agent
 	url = https://github.com/open-falcon/agent.git
-[submodule "graph"]
-	path = graph
-	url = https://github.com/open-falcon/graph.git
 [submodule "dashboard"]
 	path = dashboard
 	url = https://github.com/open-falcon/dashboard.git
@@ -46,3 +43,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/open-falcon/gateway.git
+[submodule "graph"]
+	path = graph
+	url = https://github.com/open-falcon/graph.git
