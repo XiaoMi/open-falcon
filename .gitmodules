@@ -46,3 +46,6 @@
 [submodule "graph"]
 	path = graph
 	url = https://github.com/open-falcon/graph.git
+[submodule "falcon-plus"]
+	path = falcon-plus
+	url = git@github.com:open-falcon/falcon-plus.git
