@@ -1,3 +1,8 @@
+# NOTE
+
+- new version v0.2.0 will release at [falcon-plus](https://github.com/open-falcon/falcon-plus)
+
+
 # Wiki
 
 - http://open-falcon.com
