@@ -1,3 +1,7 @@
+-# NOTE		
+
+- new version v0.2.0 released 
+
 
 # Wiki
 
