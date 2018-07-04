@@ -1,6 +1,8 @@
 
 # Open-Falcon
 
+![Open-Falcon](http://open-falcon.com/assets/open-falcon-logo.svg)
+
 Open-Falcon is a scalable open source monitor resolution with high availability at enterprise-level which was originally developed by the engineers working at the Xiaomi AI&Cloud team. 
 
 Learn more about the Open-Falcon at the [documents](http://book.open-falcon.com/en_0_2/)
