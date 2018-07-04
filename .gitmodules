@@ -1,1 +1,13 @@
 
+[submodule "falcon-plus"]
+	path = falcon-plus
+	url = git@github.com:open-falcon/falcon-plus.git
+[submodule "plugin"]
+	path = plugin
+	url = https://github.com/open-falcon/plugin.git
+[submodule "book"]
+	path = book
+	url = https://github.com/open-falcon/book.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/open-falcon/dashboard.git
