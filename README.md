@@ -1,7 +1,7 @@
 
 # Open-Falcon
 
-Open-Falcon is an flexible open source monitor resolution with high availability at enterprise-level.
+Open-Falcon is an scalable open source monitor resolution with high availability at enterprise-level.
 
 With the warm support and help of everyone, Open-Falcon has become one of the most popular monitor systems in China.
 
