@@ -6,7 +6,7 @@ OpenFalcon is an expandable open source monitor resolution with high availabilit
 With the warm support and help of everyone, OpenFalcon has become one of the most popular monitor systems in China.
 
 
-# Scalability
+## Scalability
 
 Scalable monitoring system is necessary to support rapid business growth. Each module of Open-Falcon is super easy to scale horizontally.
 
