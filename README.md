@@ -1,7 +1,7 @@
 
 # Open-Falcon
 
-Open-Falcon is an scalable open source monitor resolution with high availability at enterprise-level.
+Open-Falcon is a scalable open source monitor resolution with high availability at enterprise-level which was originally developed by the engineers working at the Xiaomi AI&Cloud team. 
 
 With the warm support and help of everyone, Open-Falcon has become one of the most popular monitor systems in China.
 
