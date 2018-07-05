@@ -4,12 +4,15 @@ Open-Falcon is a scalable open source monitor resolution with high availability 
 
 Learn more about the Open-Falcon at the [documents](http://book.open-falcon.com/en_0_2/)
 
-### Website
 
-- http://open-falcon.com
+### For more information
 
-### Code
-- https://github.com/open-falcon/falcon-plus/
+[Open-Falcon Website](http://www.open-falcon.com)
+
+[API Document](http://api.open-falcon.com)
+
+[Document](http://book.open-falcon.com/en_0_2/)
+
 
 # License
 
