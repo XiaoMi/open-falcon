@@ -8,10 +8,15 @@ Learn more about the Open-Falcon at the [documents](http://book.open-falcon.com/
 
 
 
-## Website
+## For more information
 
-http://www.open-falcon.com
+[Open-Falcon Website](http://www.open-falcon.com)
 
+
+## Documents
+
+* [API](http://api.open-falcon.com)
+* [Usage](http://book.open-falcon.com/en_0_2/)
 
 
 
