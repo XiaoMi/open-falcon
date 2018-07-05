@@ -16,7 +16,7 @@ Learn more about the Open-Falcon at the [Open-Falcon Website](http://www.open-fa
 
 ## License
 
-Copyright 2014-2018 Xiaomi, Inc.
+Copyright 2015-2018 Xiaomi, Inc.
 Licensed under the Apache License,
 Version 2.0:
 http://www.apache.org/licenses/LICENSE-2.0
