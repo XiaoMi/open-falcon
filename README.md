@@ -7,11 +7,11 @@ Learn more about the Open-Falcon at the [documents](http://book.open-falcon.com/
 
 ### For more information
 
-[Open-Falcon Website](http://www.open-falcon.com)
+* [Open-Falcon Website](http://www.open-falcon.com)
 
-[API Document](http://api.open-falcon.com)
+* [API Document](http://api.open-falcon.com)
 
-[Document](http://book.open-falcon.com/en_0_2/)
+* [Document](http://book.open-falcon.com/en_0_2/)
 
 
 # License
